@@ -20,16 +20,5 @@
 
 ## Demo:
 
-[Full Video](https://www.dropbox.com/scl/fi/mkj56ct8wnzc00mm7e2xa/TravelBookDemo.mp4?rlkey=f01im7k778h22s51zyjhxwkyi&st=7i4k0bsv&dl=0)
-
-____
-
-
-![trim 022070C8-4C85-41E1-8315-47BD2C277CF7-2](https://github.com/user-attachments/assets/75a35203-30f4-42b9-a6aa-e424df13b8f1)
-
-
-
-
-
-
+![TravelBook](https://github.com/user-attachments/assets/5cb8c7e9-ea60-4b4b-b657-cf284f7035b2)
 
